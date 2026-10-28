@@ -10,6 +10,8 @@ Una app móvil para registrar alimentos, calcular el progreso hacia una meta de 
 
 ## Empieza aquí
 
+- [Templates visuales UI/UX](design/templates/ui-ux/README.md): seis pantallas de referencia, imágenes y prompts para iterar el diseño.
+
 - [Alcance y decisiones del proyecto](docs/ALCANCE.md): público, entregables y límites por etapa.
 
 - [Plan de la aplicación](docs/PLAN_APLICACION.md): visión, alcance, prioridades y pantallas.
