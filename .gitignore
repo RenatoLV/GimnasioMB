@@ -1,0 +1,29 @@
+# Dependencias y archivos generados cuando se implemente la app
+node_modules/
+.expo/
+dist/
+build/
+coverage/
+*.log
+
+# Configuración privada
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.mobileprovision
+
+# Datos locales e investigación sensible
+research/private/*
+!research/private/.gitkeep
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
